@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Épület kereső</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="building_a">A épület</string>
+    <string name="building_b">B épület</string>
+    <string name="building_c">C épület</string>
+    <string name="building_d">D épület</string>
+    <string name="building_e">E épület</string>
+    <string name="building_f">F épület</string>
+    <string name="building_gt">GT épület</string>
+    <string name="building_bpk">BPK épület</string>
+    <string name="building_lskk">LSKK épület</string>
+    <string name="building_ik">IK épület</string>
+    <string name="building_ami">Huszonöt évvel ezelőtt indult el Sopronban a felsőfokú művészeti képzés, amelynek irányítója és szervezője az Alkalmazott Művészeti Intézet. Az oktatás módszertana a Bauhausban lefektetett elvek szerint szerveződik. Szűk csoportokban, a művészetre, mint képzési elvre támaszkodva, személyes tanár-diák diskurzusokon keresztül sajátítják el a hallgatók az építészet, a formatervezés és a grafika alapfogásait.</string>
+    <string name="title">Válasszon képzési helyszínt!</string>
+    <string name="tata_string">Tata</string>
+    <string name="sopron_string">Sopron</string>
+
+    <string name="building_tata">Volt Piarista Rendház</string>
+    <string name="aboutus">Készítette: Németh Márk\nKészült a Soproni Egyetem Simonyi Károly Karának Informatikai és Gazdasági Intézetében.\nAz alkalmazás az EFOP-3.4.3-16-2016-00022 számú, \"QUALITAS\" Minőségi felsőoktatás fejlesztés Sopronban, Szombathelyen és Tatán elnevezésű projekt keretében készült.</string>
+</resources>
